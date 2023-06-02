@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:personal_flutter_1/widgets/column/column.dart';
+import 'package:personal_flutter_1/meen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const MyWidget());
 }
 
 class MyApp extends StatelessWidget {
